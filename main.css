@@ -1,0 +1,40 @@
+h1 {
+  font-family: monospace;
+  text-align: center;
+}
+
+.fp-controlArrow.fp-prev {
+  border-color: transparent black transparent transparent;
+}
+
+.fp-controlArrow.fp-next {
+  border-color: transparent transparent transparent black;
+}
+
+.s1 {
+  background: url("../images/pencils_on_yellow.jpg");
+  background-size: cover;
+}
+
+.s1 h1 {
+  color: white;
+  text-align: right;
+  margin-right: 10%;
+  font-size: 4rem;
+}
+
+.s2 {
+  background: url("../images/arrow_right.jpg");
+  background-size: cover;
+}
+
+.s2 h2 {
+  color: black;
+  text-align: center;
+  font-size: 4rem;
+}
+
+.jumboimg {
+  width: 100%;
+}
+/*# sourceMappingURL=main.css.map */
