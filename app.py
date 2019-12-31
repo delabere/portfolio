@@ -2,7 +2,6 @@ from flask import Flask, render_template
 import os
 
 app = Flask(__name__)
-os.environ['FLASK_DEBUG'] = 'True'
 
 project_info = [
     {
