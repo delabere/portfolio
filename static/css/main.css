@@ -18,8 +18,7 @@ h1 {
 
 .s1 h1 {
   color: white;
-  text-align: right;
-  margin-right: 10%;
+  text-align: center;
   font-size: 4rem;
 }
 
@@ -43,6 +42,19 @@ h1 {
 }
 
 .lead {
+  text-align: center;
+}
+
+svg {
+  fill: white !important;
+}
+
+svg:hover {
+  fill: grey !important;
+}
+
+#container {
+  width: 100%;
   text-align: center;
 }
 /*# sourceMappingURL=main.css.map */
