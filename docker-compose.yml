@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  portfolio_site:
+  build: ./portfolio_site
+  volumes:
+      - ./portfolio_site:/usr/src/app
+    ports:
+      - 80:80
