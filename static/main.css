@@ -12,7 +12,7 @@ h1 {
 }
 
 .s1 {
-  background: url("../images/pencils_on_yellow.jpg");
+  background: url("/static/images/pencils_on_yellow.jpg");
   background-size: cover;
 }
 
@@ -24,7 +24,7 @@ h1 {
 }
 
 .s2 {
-  background: url("../images/arrow_right.jpg");
+  background: url("/static/images/arrow_right.jpg");
   background-size: cover;
 }
 
@@ -39,6 +39,10 @@ h1 {
 }
 
 .fp-slidesNav.fp-bottom {
+  text-align: center;
+}
+
+.lead {
   text-align: center;
 }
 /*# sourceMappingURL=main.css.map */

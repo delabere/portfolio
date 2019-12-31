@@ -9,7 +9,7 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.8/fullpage.min.css"
     />
-    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="/static/main.css"/>
 
     <link
       rel="stylesheet"
@@ -35,7 +35,7 @@
                 <div class="container">
                     <h1 class="display-4">Gif-Chat</h1>
                     <a href="http://www.google.com">
-                        <img class="jumboimg" src="../images/gif-chat.jpeg" alt="">
+                        <img class="jumboimg" src="\static\images\gif-chat.jpeg" alt="">
                     </a>
                     <p class="lead">This is a Flask-powered chat application which uses web-sockets</p>
                 </div>
@@ -81,17 +81,7 @@
 
     <!-- fullpage -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.8/fullpage.min.js"></script>
+    <script src="/static/main.js"></script>
 
-    <script>
-      new fullpage("#fullPage", {
-        autoscrolling: true,
-        autoscrolling: true,
-        scrollVar: true,
-        paddingTop: '5em',
-        slidesNavigation: true,
-        cards: true,
-        dragAndMove: true
-      });
-    </script>
   </body>
 </html>
