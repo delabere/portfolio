@@ -4,7 +4,7 @@ python:
 
 addons:
   ssh_known_hosts:
-  - git.example.com
+  - 157.245.37.38
 
 services:
 - docker
