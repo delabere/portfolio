@@ -1,6 +1,11 @@
 language: python
 python:
 - '3.6'
+
+addons:
+  ssh_known_hosts:
+  - git.example.com
+
 services:
 - docker
 before_script: pip install docker-compose
