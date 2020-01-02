@@ -1,2 +1,4 @@
 __pycache__
 .vscode
+deploy_rsa.pub
+deploy_rsa
