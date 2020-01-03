@@ -5,4 +5,4 @@ git config --global push.default simple # we only want to push one branch — ma
 # <user> here is the separate user you created for deploying
 git remote add production ssh://git@157.245.37.38/home/git/prod_portfolio
 git push production master # push our updates
-docker-compose up -d --no-deps --build portfolio
+docker-compose up -d --no-deps --build
