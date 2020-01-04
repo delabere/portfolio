@@ -1,8 +1,23 @@
+.container {
+    max-width: 720px !important;
+}
+
 h1 {
     font-family: monospace;
     text-align: center;
 }
 
+@media (max-width: 575.98px) {
+.fp-controlArrow.fp-next {
+    right: 5px;
+    border-width: 15px 0 15px 15px;
+    }
+
+.fp-controlArrow.fp-prev {
+    left: 5px;
+    border-width: 15px 15px 15px 0;
+    }
+}
 
 .fp-controlArrow.fp-prev {
     border-color: transparent rgb(0, 0, 0) transparent transparent;
@@ -35,9 +50,12 @@ h1 {
         font-size: 4rem;
     }
 }
+.jumbotron{
+    padding: 1em !important;
+}
 
 .jumbotron-fluid {
-    margin-top: 5em !important;
+    margin-top: 2em !important;
     margin-bottom: 100% !important;
 }
 
