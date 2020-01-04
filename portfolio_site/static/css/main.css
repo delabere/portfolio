@@ -7,6 +7,17 @@ h1 {
   text-align: center;
 }
 
+@media (max-width: 575.98px) {
+  .fp-controlArrow.fp-next {
+    right: 5px;
+    border-width: 15px 0 15px 15px;
+  }
+  .fp-controlArrow.fp-prev {
+    left: 5px;
+    border-width: 15px 15px 15px 0;
+  }
+}
+
 .fp-controlArrow.fp-prev {
   border-color: transparent black transparent transparent;
 }
@@ -38,11 +49,11 @@ h1 {
 }
 
 .jumbotron {
-  padding: 0px;
+  padding: 1em !important;
 }
 
 .jumbotron-fluid {
-  margin-top: 5em !important;
+  margin-top: 2em !important;
   margin-bottom: 100% !important;
 }
 
