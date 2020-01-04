@@ -1,3 +1,7 @@
+.container {
+    max-width: 720px !important;
+}
+
 h1 {
     font-family: monospace;
     text-align: center;
@@ -35,7 +39,9 @@ h1 {
         font-size: 4rem;
     }
 }
-
+.jumbotron{
+    padding: 0px;
+}
 .jumbotron-fluid {
     margin-top: 5em !important;
     margin-bottom: 100% !important;
