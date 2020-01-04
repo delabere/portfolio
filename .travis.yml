@@ -9,7 +9,6 @@ services:
 
 before_script: pip install docker-compose
 
-
 script:
 - docker-compose up -d
 - docker ps
