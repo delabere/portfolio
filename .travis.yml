@@ -7,6 +7,10 @@ cache: pip
 services:
  - docker
 
+addons:
+  ssh_known_hosts:
+  - 157.245.37.38
+
 before_script: pip install docker-compose
 
 script:
@@ -28,7 +32,3 @@ deploy:
   script: ".travis/deploy.sh"
   on:
     branch: master
-
-addons:
-  ssh_known_hosts:
-  - 157.245.37.38
