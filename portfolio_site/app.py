@@ -6,7 +6,7 @@ app = Flask(__name__)
 project_info = [
     {
         "title": "Pizza-Shop",
-        "image_url": "https://raw.githubusercontent.com/delabere/Pizza-Delivery-DjangoApp/master/img/pizza_store_new.png",
+        "image_url": "https://raw.githubusercontent.com/delabere/Pizza-Delivery-DjangoApp/master/img/pizza_store_newer.png",
         "description": "This is an example pizza shop website which allows you do order custom pizzas, subs, pastas, salads and platters of food!",
         "repo_url": "https://github.com/delabere/Pizza-Delivery-DjangoApp",
         "project_url": None,
