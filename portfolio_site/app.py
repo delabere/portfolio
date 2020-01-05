@@ -5,17 +5,17 @@ app = Flask(__name__)
 
 project_info = [
     {
+        "title": "Pizza-Shop",
+        "image_url": "https://raw.githubusercontent.com/delabere/Pizza-Delivery-DjangoApp/master/img/pizza_store_new.png",
+        "description": "This is an example pizza shop website which allows you do order custom pizzas, subs, pastas, salads and platters of food!",
+        "repo_url": "https://github.com/delabere/Pizza-Delivery-DjangoApp",
+        "project_url": None,
+    },
+    {
         "title": "Gif-Chat",
         "image_url": "https://raw.githubusercontent.com/delabere/Gif-Chat-FlaskApp/master/gif-chat.jpeg",
         "description": "This is a Flask-powered fully realtime chat application which uses web-sockets",
         "repo_url": "https://github.com/delabere/Gif-Chat-FlaskApp",
-        "project_url": None,
-    },
-    {
-        "title": "Pizza-Shop",
-        "image_url": "https://raw.githubusercontent.com/delabere/Pizza-Delivery-DjangoApp/master/img/pizza_store.png",
-        "description": "This is an example pizza shop website which allows you do order custom pizzas, subs, pastas, salads and platters of food!",
-        "repo_url": "https://github.com/delabere/Pizza-Delivery-DjangoApp",
         "project_url": None,
     },
     {
