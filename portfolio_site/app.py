@@ -8,7 +8,8 @@ project_info = [
         "title": "Pizza-Shop",
         "image_url": "https://raw.githubusercontent.com/delabere/Pizza-Delivery-DjangoApp/master/img/pizza_store.png",
         "description": "This is an example pizza shop website which allows you do order custom pizzas, subs, pastas, salads and platters of food!",
-        "repo_url": "https://github.com/delabere/Pizza-Delivery-DjangoApp",
+        #"repo_url": "https://github.com/delabere/Pizza-Delivery-DjangoApp",
+        "repo_url": "jackspizza.co.uk",
         "project_url": None,
     },
     {
