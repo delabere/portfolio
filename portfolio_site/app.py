@@ -15,7 +15,7 @@ project_info = [
     },
     {
         "title": "Gif-Chat",
-        "repo_url": "http:chat.delabere.com",
+        "repo_url": "http://chat.delabere.com",
         "image_url": "https://raw.githubusercontent.com/delabere/Gif-Chat-FlaskApp/master/gif-chat.jpeg",
         "description": "This is a Flask-powered realtime chat application which using web-sockets and JavaScript on the front-end.",
         #"repo_url": "https://github.com/delabere/Gif-Chat-FlaskApp",
