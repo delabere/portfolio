@@ -23,7 +23,7 @@ project_info = [
     },
     {
         "title": "Sentimento",
-        "image_url": "https://raw.githubusercontent.com/delabere/Sentimento-FlaskApp/master/Sentimento-FrontPage.png",
+        "image_url": "https://github.com/delabere/Sentimento-FlaskApp/blob/master/sentimento/Sentimento-FrontPage.png?raw=true",
         "description": "This is a pet project for creating an interactive dashboard running sentiment analysis over API data using the Google News API and the Google Sentiment API using Flask, Pandas, and Plotly.",
         "repo_url": "http://sentimento.delabere.com/",
         #"repo_url": "https://github.com/delabere/Sentimento-FlaskApp",
@@ -31,7 +31,7 @@ project_info = [
     },
     {
         "title": "Over-Booked",
-        "image_url": "https://raw.githubusercontent.com/delabere/Over-Booked-FlaskApp/master/Over-Booked.png",
+        "image_url": "https://github.com/delabere/Over-Booked-FlaskApp/raw/master/overbooked/Over-Booked.png",
         "description": "Over-Booked is a fully responsive website that allows you to search information and leave reviews for thousands of books!",
         "repo_url": "http://over-booked.delabere.com/",
         #"repo_url": "https://github.com/delabere/Over-Booked-FlaskApp",
