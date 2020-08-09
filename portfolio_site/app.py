@@ -33,7 +33,7 @@ project_info = [
         "title": "Over-Booked",
         "image_url": "https://github.com/delabere/Over-Booked-FlaskApp/raw/master/overbooked/Over-Booked.png",
         "description": "Over-Booked is a fully responsive website that allows you to search information and leave reviews for thousands of books!",
-        "repo_url": "http://over-booked.delabere.com/",
+        "repo_url": "http://overbooked.delabere.com/",
         #"repo_url": "https://github.com/delabere/Over-Booked-FlaskApp",
         "project_url": None,
     },
